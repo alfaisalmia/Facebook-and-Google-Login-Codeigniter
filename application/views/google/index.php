@@ -1,0 +1,1 @@
+<a href="<?php echo $login_url;?>" target='_blank'><img src="https://developers.google.com/+/images/branding/sign-in-buttons/Red-signin_Google_base_44dp.png" width="300"></a>
